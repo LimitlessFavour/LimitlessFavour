@@ -1,7 +1,7 @@
 <img src="./assets/limitless-signal.jpg" alt="Limitless — Software, Systems and Product Engineer" width="100%" />
 
 <p align="center">
-  <a href="https://limitlessfavour.com/"><img src="https://img.shields.io/badge/PORTFOLIO-limitlessfavour.com-FF3B00?style=flat-square&labelColor=383838" alt="Portfolio" /></a>
+  <a href="https://limitlessfavour.com/"><img src="https://img.shields.io/badge/WEBSITE-limitlessfavour.com-FF3B00?style=flat-square&labelColor=383838" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/limitlessfavour/"><img src="https://img.shields.io/badge/LINKEDIN-limitlessfavour-FF3B00?style=flat-square&labelColor=383838" alt="LinkedIn" /></a>
   <a href="https://x.com/LimitlessFavour"><img src="https://img.shields.io/badge/X-@LimitlessFavour-FF3B00?style=flat-square&labelColor=383838" alt="X" /></a>
   <a href="mailto:oketolulope3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET%27S%20TALK-FF3B00?style=flat-square&labelColor=383838" alt="Email" /></a>
@@ -10,9 +10,9 @@
 
 ## Welcome. This is where I build, test, and learn in public.
 
-Hey, I’m Tolulope “Limitless” Favour—a software, systems, and product engineer based in Lagos. I’ve spent the last few years building mobile and backend products across FinTech, prediction markets, HealthTech, and social platforms. These days, I also work close to identity and access: authentication, authorization, and the systems that decide who gets in, what they can do, and how safely software ships.
+Hey, I’m Tolulope “Limitless” Favour—a software, systems, and product engineer. I’ve spent the last few years building mobile and backend products across FinTech, prediction markets, HealthTech, and social platforms. These days, I also work close to identity and access: authentication, authorization, and the systems that decide who gets in, what they can do, and how safely software ships.
 
-I use this GitHub to build ideas, test technical instincts, and get closer to how software behaves outside a clean architecture diagram. I’m especially interested in dependable product systems, secure access, and practical AI—agents, LLM workflows, retrieval, search, and automation that earn their place in a real product.
+I’m especially interested in dependable product systems, secure access, and practical AI—agents, LLM workflows, retrieval, search, and automation that earn their place in a real product.
 
 <img src="./assets/current-signal.jpg" alt="Current signal — mobile, backend, product and security" width="100%" />
 
@@ -31,14 +31,14 @@ I use this GitHub to build ideas, test technical instincts, and get closer to ho
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/RANGE-PRODUCT%20SYSTEMS-E04403?style=for-the-badge&labelColor=383838" alt="Range — Product systems" />
+      <br /><br />
+      FinTech, prediction markets, HealthTech, payments, wallets, identity, real-time systems, and regulated environments.
+    </td>
+    <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/EXPLORING-PRACTICAL%20AI-E04403?style=for-the-badge&labelColor=383838" alt="Exploring — Practical AI" />
       <br /><br />
       I’m exploring AI engineering through agents, LLM workflows, embeddings, retrieval, search, automation, and the less glamorous work of evaluating whether any of it is actually useful.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/BASE-LAGOS%20%2F%20WAT-E04403?style=for-the-badge&labelColor=383838" alt="Base — Lagos, WAT" />
-      <br /><br />
-      Lagos, Nigeria · WAT (UTC+1). I build for users and work with teams well beyond the timezone.
     </td>
   </tr>
 </table>
@@ -74,9 +74,9 @@ I use this GitHub to build ideas, test technical instincts, and get closer to ho
 
 ### Earlier chapters, same pattern
 
-- **Sealth:** Helped turn health schedules, medical records, and medication alerts into a secure Flutter experience backed by GCP and Firebase.
+- **Sealth:** Built a secure Flutter experience that brought health schedules, medical records, and medication alerts into one reliable patient workflow, backed by GCP and Firebase.
 - **DoyarPay:** Connected modern mobile UX to the less-glamorous realities of financial infrastructure: Paystack, subscriptions, SOAP/XML, fees, and real-time transaction updates.
-- **Sturrd:** Helped turn an early social-product idea into a real-time mobile experience spanning chat, location-aware discovery, deep links, notifications, and monetization. It taught me how quickly product decisions become systems decisions.
+- **Sturrd:** Turned an early social-product concept into a real-time mobile experience spanning chat, location-aware discovery, deep links, notifications, and monetization. It taught me how quickly product decisions become systems decisions.
 
 <img src="./assets/engineering-stack.jpg" alt="Engineering stack — mobile, backend, cloud and security" width="100%" />
 
@@ -100,9 +100,7 @@ I use this GitHub to build ideas, test technical instincts, and get closer to ho
   <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub" title="GitHub" /></a>
 </p>
 
-<details>
-<summary><strong>The full toolkit</strong> — because icons only tell half the story</summary>
-<br />
+### Tools I work with
 
 **Mobile & product:** Flutter · Dart · Swift · Java / Android · Firebase Auth · Cloud Firestore · Realtime Database · Cloud Functions · FCM · Dynamic Links · Google Maps & Places
 
@@ -114,21 +112,16 @@ I use this GitHub to build ideas, test technical instincts, and get closer to ho
 
 **Security & systems:** OWASP · API security · Secure SDLC · Vulnerability assessment · Threat analysis · Burp Suite · Metasploit · Finacle
 
-</details>
-
 I also [write](https://limitlessfavour.com/writing) when I have something useful to say and [speak](https://limitlessfavour.com/speaking) when a live conversation will do the idea more justice.
 
 <details>
-<summary><strong>GitHub signal</strong> — stats, streaks, and the receipts</summary>
+<summary><strong>GitHub activity</strong></summary>
 <br />
-<p>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimitlessFavour&theme=github" alt="LimitlessFavour's GitHub activity summary" />
-</p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LimitlessFavour&hide_border=true&background=F5F4F0&ring=FF3B00&fire=FF3B00&currStreakLabel=383838&sideLabels=383838&currStreakNum=383838&sideNums=383838&dates=777777" alt="LimitlessFavour's GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimitlessFavour&theme=github" alt="LimitlessFavour's GitHub activity summary" /><img width="49%" src="https://streak-stats.demolab.com?user=LimitlessFavour&hide_border=true&background=F5F4F0&ring=FF3B00&fire=FF3B00&currStreakLabel=383838&sideLabels=383838&currStreakNum=383838&sideNums=383838&dates=777777" alt="LimitlessFavour's GitHub streak" />
 </p>
 </details>
 
-## Let’s build something that earns its complexity.
+## Let’s build good systems for complex problems.
 
 I like difficult product problems—especially where mobile, backend, identity, or AI have to work as one system. [Bring me one](mailto:oketolulope3@gmail.com).
