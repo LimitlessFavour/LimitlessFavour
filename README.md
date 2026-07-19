@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=LimitlessFavour&label=PROFILE+VIEWS&color=ff3b00&style=flat-square&base=785" alt="Profile views" />
 </p>
 
-## Welcome. This is where I build, test, and learn in public.
+## I build products and the systems that make them work.
 
 Hey, I’m Tolulope “Limitless” Favour—a software, systems, and product engineer. I’ve spent the last few years building mobile and backend products across FinTech, prediction markets, HealthTech, and social platforms. These days, I also work close to identity and access: authentication, authorization, and the systems that decide who gets in, what they can do, and how safely software ships.
 
@@ -100,7 +100,9 @@ I’m especially interested in dependable product systems, secure access, and pr
   <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub" title="GitHub" /></a>
 </p>
 
-### Tools I work with
+<details>
+<summary><strong>Tools I work with</strong></summary>
+<br />
 
 **Mobile & product:** Flutter · Dart · Swift · Java / Android · Firebase Auth · Cloud Firestore · Realtime Database · Cloud Functions · FCM · Dynamic Links · Google Maps & Places
 
@@ -111,6 +113,8 @@ I’m especially interested in dependable product systems, secure access, and pr
 **AI & exploration:** LLM workflows · Agents · Embeddings · Retrieval and search · AI-assisted automation · Evaluation
 
 **Security & systems:** OWASP · API security · Secure SDLC · Vulnerability assessment · Threat analysis · Burp Suite · Metasploit · Finacle
+
+</details>
 
 I also [write](https://limitlessfavour.com/writing) when I have something useful to say and [speak](https://limitlessfavour.com/speaking) when a live conversation will do the idea more justice.
 
