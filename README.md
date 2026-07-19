@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/limitlessfavour/"><img src="https://img.shields.io/badge/LINKEDIN-limitlessfavour-FF3B00?style=flat-square&labelColor=383838" alt="LinkedIn" /></a>
   <a href="https://x.com/LimitlessFavour"><img src="https://img.shields.io/badge/X-@LimitlessFavour-FF3B00?style=flat-square&labelColor=383838" alt="X" /></a>
   <a href="mailto:oketolulope3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET%27S%20TALK-FF3B00?style=flat-square&labelColor=383838" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=LimitlessFavour&label=PROFILE+VIEWS&color=ff3b00&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LimitlessFavour&label=PROFILE+VIEWS&color=ff3b00&style=flat-square&base=785" alt="Profile views" />
 </p>
 
 ## I build the product and the machinery behind it.
@@ -14,35 +14,91 @@ I’m the engineer you bring in when the product has to feel effortless on the s
 
 <img src="./assets/current-signal.jpg" alt="Current signal — mobile, backend, product and security" width="100%" />
 
-| | |
-| --- | --- |
-| **Now** | Information Security Engineer at Guaranty Trust Bank, bringing a builder’s perspective to application security, authentication, code review, and secure delivery. |
-| **Strongest signal** | Product-minded systems engineering across mobile and backend. I turn ambiguous requirements into software people can actually use. |
-| **Built across** | FinTech, prediction markets, HealthTech, social products, payments, wallets, real-time systems, and regulated environments. |
-| **Based** | Lagos, Nigeria · WAT (UTC+1) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/NOW-SECURE%20ACCESS-E04403?style=for-the-badge&labelColor=383838" alt="Now — Secure access" />
+      <br /><br />
+      I’m currently at <a href="https://www.gtbank.com/">Guaranty Trust Bank</a>, making customer-facing systems harder to break and easier to trust. I bring the perspective of someone who has actually shipped the software.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/BUILD-MOBILE%20%2B%20BACKEND-E04403?style=for-the-badge&labelColor=383838" alt="Build — Mobile and backend" />
+      <br /><br />
+      Mobile and backend systems are my strongest lane. Give me an ambiguous product problem; I’ll turn it into something dependable, usable, and ready for real traffic.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/RANGE-PRODUCT%20SYSTEMS-E04403?style=for-the-badge&labelColor=383838" alt="Range — Product systems" />
+      <br /><br />
+      FinTech, prediction markets, HealthTech, payments, wallets, identity, real-time systems, and regulated environments.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/BASE-LAGOS%20%2F%20WAT-E04403?style=for-the-badge&labelColor=383838" alt="Base — Lagos, WAT" />
+      <br /><br />
+      Lagos, Nigeria · WAT (UTC+1) · building for users and teams well beyond the timezone.
+    </td>
+  </tr>
+</table>
 
-## Systems I’ve helped ship
+## A few systems with my fingerprints on them.
 
-**[Guaranty Trust Bank](https://www.gtbank.com/) · Information Security Engineer · Feb 2025—Present**<br />
-Strengthening customer-facing banking applications through vulnerability assessment, application and code reviews, authentication integrations, and secure-SDLC guidance. The job is security; the advantage is knowing how software is actually built.
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://www.gtbank.com/">
+        <img src="./assets/gtco-logo.svg" width="76" alt="GTCO" title="Visit Guaranty Trust Bank" />
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://www.gtbank.com/">Guaranty Trust Bank</a></strong>
+      <br /><br />
+      I’m currently at Guaranty Trust Bank, focused mainly on authentication and authorization—designing and strengthening secure access across customer-facing systems, and helping teams deliver those systems safely. I bring the perspective of someone who has shipped products, so I approach access controls as engineering infrastructure, not a compliance checkbox.
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://www.bayse.markets/">
+        <img src="./assets/bayse-logo.svg" width="106" alt="Bayse Markets" title="Visit Bayse Markets" />
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://www.bayse.markets/">Bayse Markets</a></strong>
+      <br /><br />
+      Before GTBank, I led mobile delivery at GoWagr—now Bayse Markets. I built core iOS and Android flows around authentication, payments, escrow, USDT wallets, notifications, and testing. Those foundations helped support the product’s evolution into Africa’s largest prediction market.
+    </td>
+  </tr>
+</table>
 
-**[Bayse Markets](https://www.bayse.markets/) · Senior Mobile Developer · Jan 2023—Aug 2024**<br />
-Led Flutter delivery for iOS and Android at the company formerly known as GoWagr. Built authentication, payments, escrow, USDT wallet flows, notifications, testing, and the marketplace foundations behind what is now Africa’s largest prediction market.
+### Earlier chapters, same pattern
 
-**Sealth · Senior Mobile Developer, Contract · Jul 2023—Sep 2023**<br />
-Built a secure HealthTech product for medical records, personalized health schedules, and real-time medication alerts, integrating Flutter with GCP and Firebase. Owned the path from product requirements to tested delivery.
-
-**DoyarPay · Senior Mobile Developer · Apr 2021—Nov 2022**<br />
-Shipped FinTech experiences spanning Paystack repayments, subscriptions, SOAP/XML integrations, fee visibility, and real-time transaction alerts. Made legacy financial infrastructure behave like a modern product.
-
-**Sturrd · Mobile Developer · Sep 2020—Nov 2021**<br />
-Engineered a Flutter/Firebase social app with chat, deep links, location features, Cloud Functions, and monetization. Led two junior developers and helped the product cross 2,000 downloads.
+- **Sealth:** Turned medical-record, health-schedule, and medication-alert requirements into a secure Flutter product backed by GCP and Firebase.
+- **DoyarPay:** Made Paystack, subscriptions, SOAP/XML integrations, fees, and transaction alerts feel like one coherent modern payment product.
+- **Sturrd:** Built the Flutter/Firebase social core—chat, deep links, location, Cloud Functions, and monetization—then led two junior engineers as the product passed 2,000 downloads.
 
 <img src="./assets/engineering-stack.jpg" alt="Engineering stack — mobile, backend, cloud and security" width="100%" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,java,ts,nodejs,python,postgres,mysql,firebase,aws,gcp,azure,docker,kubernetes,git,github&theme=light&perline=9" alt="Flutter, Dart, Swift, Java, TypeScript, Node.js, Python, PostgreSQL, MySQL, Firebase, AWS, GCP, Azure, Docker, Kubernetes, Git and GitHub" />
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=light" width="48" alt="Flutter" title="Flutter" /></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&theme=light" width="48" alt="Dart" title="Dart" /></a>
+  <a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift&theme=light" width="48" alt="Swift" title="Swift" /></a>
+  <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=light" width="48" alt="Java" title="Java" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" alt="Node.js" title="Node.js" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="48" alt="Python" title="Python" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL" title="MySQL" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=light" width="48" alt="Firebase" title="Firebase" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" alt="Amazon Web Services" title="Amazon Web Services" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="48" alt="Google Cloud" title="Google Cloud" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure&theme=light" width="48" alt="Microsoft Azure" title="Microsoft Azure" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" alt="Docker" title="Docker" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="48" alt="Kubernetes" title="Kubernetes" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git" title="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub" title="GitHub" /></a>
 </p>
+
+<p align="center"><sub>Hover for the name. Click for the official site.</sub></p>
 
 <details>
 <summary><strong>The full toolkit</strong> — because icons only tell half the story</summary>
