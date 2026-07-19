@@ -12,7 +12,7 @@
 
 I’m the engineer you bring in when the product has to feel effortless on the surface and survive complexity underneath. I build mobile experiences, backend integrations, payment flows, identity systems, and cloud-connected products—with security engineered in, not stapled on later.
 
-### Current signal
+<img src="./assets/current-signal.jpg" alt="Current signal — mobile, backend, product and security" width="100%" />
 
 | | |
 | --- | --- |
@@ -38,19 +38,25 @@ Shipped FinTech experiences spanning Paystack repayments, subscriptions, SOAP/XM
 **Sturrd · Mobile Developer · Sep 2020—Nov 2021**<br />
 Engineered a Flutter/Firebase social app with chat, deep links, location features, Cloud Functions, and monetization. Led two junior developers and helped the product cross 2,000 downloads.
 
-## Engineering stack
+<img src="./assets/engineering-stack.jpg" alt="Engineering stack — mobile, backend, cloud and security" width="100%" />
 
-**Mobile & product**<br />
-Flutter · Dart · Swift · Java / Android · Firebase Auth · Cloud Firestore · Realtime Database · Cloud Functions · FCM · Dynamic Links · Google Maps & Places
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,java,ts,nodejs,python,postgres,mysql,firebase,aws,gcp,azure,docker,kubernetes,git,github&theme=light&perline=9" alt="Flutter, Dart, Swift, Java, TypeScript, Node.js, Python, PostgreSQL, MySQL, Firebase, AWS, GCP, Azure, Docker, Kubernetes, Git and GitHub" />
+</p>
 
-**Backend & data**<br />
-TypeScript · JavaScript · Node.js · Python · SQL · REST · SOAP · JSON · XML · PostgreSQL · MySQL · Payment & wallet integrations
+<details>
+<summary><strong>The full toolkit</strong> — because icons only tell half the story</summary>
+<br />
 
-**Cloud & delivery**<br />
-AWS · Azure · GCP · Docker · Kubernetes · Git · GitHub · Postman · Jira · Confluence · Agile · Scrum · DevOps · CI/CD
+**Mobile & product:** Flutter · Dart · Swift · Java / Android · Firebase Auth · Cloud Firestore · Realtime Database · Cloud Functions · FCM · Dynamic Links · Google Maps & Places
 
-**Security & systems**<br />
-OWASP · API security · Secure SDLC · Vulnerability assessment · Threat analysis · Burp Suite · Nessus · OWASP ZAP · Splunk · Wireshark · Nmap · Metasploit · Finacle
+**Backend & data:** TypeScript · JavaScript · Node.js · Python · SQL · REST · SOAP · JSON · XML · PostgreSQL · MySQL · Payment & wallet integrations
+
+**Cloud & delivery:** AWS · Azure · GCP · Docker · Kubernetes · Git · GitHub · Postman · Jira · Confluence · Agile · Scrum · DevOps · CI/CD
+
+**Security & systems:** OWASP · API security · Secure SDLC · Vulnerability assessment · Threat analysis · Burp Suite · Nessus · OWASP ZAP · Splunk · Wireshark · Nmap · Metasploit · Finacle
+
+</details>
 
 One line each: I [write](https://limitlessfavour.com/writing) to make complicated ideas useful, and I [speak](https://limitlessfavour.com/speaking) when the room deserves more than another forgettable slide deck.
 
